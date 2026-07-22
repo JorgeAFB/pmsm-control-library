@@ -5,7 +5,6 @@ This repository contains the C implementation of the motor control algorithms de
 ## Controllers
 
 - Field Oriented Control (FOC)
-- Direct Torque Control (DTC)
 
 ## Features
 
